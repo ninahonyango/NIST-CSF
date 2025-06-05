@@ -45,7 +45,7 @@ This project demonstrates how to:
 3. Create a Risk Register
 4. Mapped Controls to CSF Subcategories
 5. Drafted Policy Documents
-6. Built an Implementtion Timeline
+6. Built an Implementation Timeline
 7. Structured Documentation and Appendices
 
 ---
