@@ -100,7 +100,7 @@ Studied the NIST CSF Core Functions, broke them down into Categories and Subcate
 
 - Created in Excel: Risk-Register.xlsx as illustrated below:
 
-![Screenshot of the risk register](images/riskRegister.png)
+![Screenshot of the risk register](images/RiskRegister.png)
 *Screenshot of the risk register created in Excel.*
 
 ---
@@ -111,7 +111,7 @@ Mapped appropriate technical and administrative controls to each CSF subcategory
 
 Organized in Excel: NIST-CSF-Control-Mapping.xlsx as illustrated below:
 
-![Screenshot of NIST-CSF-Control-Mapping](images/NISTControlMapping.png)
+![Screenshot of NIST-CSF-Control-Mapping](images/NISTControlMappingSheet.png)
 *Screenshot of NIST CSF Control Mapping in Excel.*
 
 ---
@@ -185,10 +185,10 @@ Added an appendix table to reference each file
 
 | Appendix | Description                                          | File |
 |----------|------------------------------------------------------|------|
-| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTCybersecurityFramework.pdf) |
-| B        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/policies.pdf) |
-| C        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/RiskRegister.xlsx) |
-| D        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST/blob/main/NIST-XBANK/NISTControlMappingSheet.xlsx) |
+| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan](https://github.com/ninahonyango/NIST-CSF/NISTCybersecurityFramework.pdf) |
+| B        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST-CSF/policies.pdf) |
+| C        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST-CSF/RiskRegister.xlsx) |
+| D        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST-CSF/NISTControlMappingSheet.xlsx) |
 
 ---
 
