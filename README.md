@@ -100,7 +100,7 @@ Studied the NIST CSF Core Functions, broke them down into Categories and Subcate
 
 - Created in Excel: Risk-Register.xlsx as illustrated below:
 
-![Screenshot of the risk register](images/RiskRegister.png)
+![Screenshot of the risk register](images/riskRegister.png)
 *Screenshot of the risk register created in Excel.*
 
 ---
@@ -111,7 +111,7 @@ Mapped appropriate technical and administrative controls to each CSF subcategory
 
 Organized in Excel: NIST-CSF-Control-Mapping.xlsx as illustrated below:
 
-![Screenshot of NIST-CSF-Control-Mapping](images/NISTControlMappingSheet.png)
+![Screenshot of NIST-CSF-Control-Mapping](images/NISTControlMapping.png)
 *Screenshot of NIST CSF Control Mapping in Excel.*
 
 ---
