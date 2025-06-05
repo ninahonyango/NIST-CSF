@@ -185,9 +185,10 @@ Added an appendix table to reference each file
 
 | Appendix | Description                                          | File |
 |----------|------------------------------------------------------|------|
-| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan](https://github.com/ninahonyango/NIST-CSF/NISTCybersecurityFramework.pdf) |
-| B        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST-CSF/policies.pdf) |
+| A        | Detailed NIST CSF Implementation Plan for X Bank     | [Click To View NIST CSF Implemetation Plan](https://github.com/ninahonyango/NIST-CSF/blob/main/NISTCybersecurityFramework.pdf) |
+| B        | Security Policy Documents (AUP, ACP, IRP, DRP etc.)  | [Click To View Security Policy Document](https://github.com/ninahonyango/NIST-CSF/blob/main/policies.pdf) |
 | C        | Risk Register (Threats, Vulnerabilities, Risks)      | [Download To View Risk Register Spreadsheet](https://github.com/ninahonyango/NIST-CSF/RiskRegister.xlsx) |
+| C        (images/NISTControlMapping.png)
 | D        | NIST CSF Control Mapping                             | [Download To View NIST CSF Control Mapping Sheet](https://github.com/ninahonyango/NIST-CSF/NISTControlMappingSheet.xlsx) |
 
 ---
